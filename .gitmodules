@@ -2,3 +2,8 @@
 	path = OCA/account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
 	branch = 14.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
