@@ -1,0 +1,4 @@
+[submodule "OCA/account-reconcile"]
+	path = OCA/account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 14.0
